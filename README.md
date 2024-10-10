@@ -5,7 +5,6 @@
 - 📫 How to reach me : by LinkedIn (Serigne Mbacké)
 - 😄 Pronouns: He
 
-![trendy-design-icon-of-machine-learning-vector](https://github.com/user-attachments/assets/6194cc31-f1af-4b9c-ac7b-c348b5ff3444)
 
 <!---
 mosn221/mosn221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
